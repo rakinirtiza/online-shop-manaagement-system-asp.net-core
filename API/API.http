@@ -1,0 +1,37 @@
+@API_HostAddress = https://localhost:7205
+
+### Get All Users
+GET {{API_HostAddress}}/api/User/all
+Accept: application/json
+
+###
+
+### Create User
+POST {{API_HostAddress}}/api/User/create
+Content-Type: application/json
+
+{
+  "name": "Rakin",
+  "email": "rakin@gmail.com",
+  "passwordHash": "123456",
+  "role": "Customer"
+}
+
+###
+
+### Get All Carts
+GET {{API_HostAddress}}/api/Cart/all
+Accept: application/json
+
+###
+
+### Create Cart
+POST {{API_HostAddress}}/api/Cart/create
+Content-Type: application/json
+
+{
+  "status": "Active",
+  "uId": 1
+}
+
+###

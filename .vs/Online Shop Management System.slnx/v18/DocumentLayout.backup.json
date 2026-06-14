@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\context\\smscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\context\\smscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\dal\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\obonti\\downloads\\online shop management system\\online shop management system\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:08:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:35:50.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-14T18:48:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\CartService.cs",
+              "RelativeToolTip": "BLL\\Services\\CartService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:51:18.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:40:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "API\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:50:05.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T15:53:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T14:27:23.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T14:26:01.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\CartDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\CartDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:39:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Cart.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:17:56.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Repo\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\Repository.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Repo\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repo\\Repository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:49:17.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "API\\Controllers\\CartItemController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:47:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:18:35.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T07:31:51.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T03:11:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:32:26.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Payment.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Payment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:25:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderItemService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:08:13.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\CartItemService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CartItemService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\CartItemService.cs",
+              "RelativeToolTip": "BLL\\Services\\CartItemService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:43:19.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T03:57:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\PaymentService.cs",
+              "RelativeToolTip": "BLL\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:29:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:12:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:06:02.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:59:08.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\CartItemDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CartItemDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\CartItemDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CartItemDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:28:06.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Repo\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Repo\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\CategoryRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:09:26.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:18:44.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Context\\SmsContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Context\\SmsContext.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Context\\SmsContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Context\\SmsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:16:50.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:55:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Order.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:56:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\CartItem.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\CartItem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:16:20.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T03:05:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\PaymentDTO.cs",
+              "RelativeToolTip": "BLL\\Services\\PaymentDTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:37:58.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:50:05.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:43:13.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:28:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:03:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:48:25.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Repo\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Repo\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\ProductRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:17:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:33:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:46:32.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\DAL\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:33:20.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\OBONTI\\Downloads\\Online Shop Management System\\Online Shop Management System\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T14:26:36.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
